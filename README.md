@@ -8,6 +8,8 @@
 - Internet system lover: first and second level of CCNA course from Cisco 
 - Hobbies: creating both electronics and software part, making low-cost devices for assess human movement (physiological and mechanical data)
 
+
+- mail: paolo.tecchio@rub.de 
 <!---
 PaulT95/PaulT95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
