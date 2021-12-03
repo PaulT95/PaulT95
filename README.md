@@ -4,7 +4,7 @@
 - In High School I studied computer science and electronics plus I learn a lot about them from my Father and my Brother
 - I'm open to any collaboration ;)
 - 
-- The program languages studied till now: Assembly (just a bit), C (Arduino), C++/C#, Python (just started), PHP, HTML, mySQL, MatLab, Spike (just started)
+- The program languages studied till now: Assembly (just a bit), C (Arduino), C++/C#, Python (just started), PHP, HTML, mySQL, MatLab, Spike2
 - Internet system lover: first and second level of CCNA course from Cisco 
 - Hobbies: creating both electronics and software part, making low-cost devices for assess human movement (physiological and mechanical data)
 
