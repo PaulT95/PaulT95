@@ -6,7 +6,7 @@
 - 
 - The program languages studied till now: Assembly (just a bit), C (Arduino), C++/C#, Python (just started), PHP, HTML, mySQL, MatLab, Spike2
 - Internet system lover: first and second level of CCNA course from Cisco 
-- Hobbies: creating both electronics and software part, making low-cost devices for assess human movement (physiological and mechanical data)
+- Hobbies: creating both electronics and software part, making low-cost devices for assessing human movement (physiological and mechanical data)
 
 
 - mail: paolo.tecchio@rub.de 
