@@ -4,9 +4,9 @@
 - In High School I studied computer science and electronics plus I learn a lot about them from my Father and my Brother
 - I'm open to any collaboration ;)
 - 
-- The program languages studied till now: Assembly (a bit), C (Arduino), C++/C#, Python (just started), PHP, HTML, mySQL, MatLab, Spike2, Java (a bit)
+- The program languages I've studied till now: Assembly (moderate knowledge), C (Arduino), C++/C#, Python (beginner), PHP, HTML, mySQL, MatLab, Spike2, R, Java (a bit)
 - Internet system lover: first and second level of CCNA course from Cisco 
-- Hobbies: creating both electronics and software part, making low-cost devices for assessing human movement (physiologically and biomechanically)
+- Hobbies: creating both electronics and software parts, making low-cost devices for assessing human movement (physiologically and biomechanically)
 
 
 - mail: paolo.tecchio@rub.de 
