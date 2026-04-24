@@ -8,27 +8,15 @@
 
 I am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **Neuromechanics**, **Movement Science**, and **Training Adaptations**. 
 
-My background is a mix of Human Movement and Sport Science (BSc & MSc) and is also rooted in Computer Science and Electronics, a passion passed down through my family that I now apply to human physiological assessment.
-    
+
+---
 <div align="center">
 
-**🔬 [Research Gate](https://www.researchgate.net/profile/PaulT95)** | **💼 [LinkedIn](https://www.linkedin.com/in/paolo-tecchio-b49255192)** |   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-0371-8475"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      ORCiD
-    </a>
-    | [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=EiT-uQoAAAAJ&hl=en)
+<a href="https://www.researchgate.net/profile/Paolo-Tecchio" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" style="width: 1.1em; margin-bottom: -2px; filter: invert(0%) sepia(95%) saturate(3015%) hue-rotate(155deg) brightness(97%) contrast(101%);" alt="ResearchGate"/> ResearchGate</a> | <a href="https://www.linkedin.com/in/paolo-tecchio-b49255192" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 1em; margin-bottom: -2px" alt="LinkedIn"/> LinkedIn</a> | 
 
+<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0003-0371-8475" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> ORCiD</a> | <a href="https://scholar.google.com/citations?user=EiT-uQoAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width: 1.1em; margin-bottom: -2px" alt="Google Scholar"/> Google Scholar</a>
 </div>
-
 ---
 
 ### 🧪 What I'm Focused On
