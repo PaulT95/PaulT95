@@ -9,11 +9,22 @@
 I currently am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **Neuromechanics** and **Movement Science** and **Training adaptations**. 
 My background is a mixed of Human movement and sport science (BSc & MSc) and also rooted in Computer Science and Electronics (High school), a passion passed down through my family that I now apply to human physiological assessment.
 
-**🔬 [Research Gate](https://www.researchgate.net/profile/PaulT95)** | **💼 [LinkedIn](https://www.linkedin.com/in/paolo-tecchio-b49255192)**
+**🔬 [Research Gate](https://www.researchgate.net/profile/PaulT95)** | **💼 [LinkedIn](https://www.linkedin.com/in/paolo-tecchio-b49255192)** | **[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--2345--6789-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0003-0371-8475)** | **[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=EiT-uQoAAAAJ&hl=en)**
+</div>
+
 
 ---
 
 ### 🧪 What I'm Focused On
+<div align="left">
+  <img src="https://img.shields.io/badge/Imaging-Ultrasound-blue?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analysis-Biomechenics-success?style=flat-square&logo=google-fit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Signal_Processing-MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Neuromechanics-9C27B0?style=flat-square&logo=academia&logoColor=white" />
+</div>
+
+**Scientific Toolkit:**
+
 
 - 🧠 Researching Neuromechanics and movement control at [RUB](https://sport.ruhr-uni-bochum.de/en/human-movement-science).
 - 🦿 Developing **low-cost devices** for biomechanical and physiological assessment.
@@ -24,14 +35,20 @@ My background is a mixed of Human movement and sport science (BSc & MSc) and als
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming:** C • C++ • C# • Python • MATLAB • R • Spike2 • Assembly • Java/Kotlin for Android (beginner)  
-**Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Imaging 
-**Web & Systems:** HTML • PHP • mySQL • Cisco Networking (CCNA 1 & 2)  
-**Hardware:** Circuit Design • Microcontrollers • Prototyping
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulT95&layout=compact&theme=vision-friendly-dark&hide=html,css" />
+</div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,r,mysql,php,html,java,kotlin,linux,git,raspberrypi,arduino" />
 </div>
+
+**Programming:** C • C++ • C# • Python • MATLAB • R • Spike2 • Assembly • Java/Kotlin for Android (beginner)  
+**Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Imaging
+**Web & Systems:** HTML • PHP • mySQL • Cisco Networking (CCNA 1 & 2)  
+**Hardware:** Circuit Design • Microcontrollers • Prototyping
 
 ---
 
@@ -59,8 +76,6 @@ When I'm not analyzing movement data or writing code, you'll find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-tecchio-b49255192/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolo.tecchio95@gmail.com)
 [![University](https://img.shields.io/badge/Ruhr_Uni_Bochum-003561?style=for-the-badge&logo=google-scholar&logoColor=white)](https://sport.ruhr-uni-bochum.de/en/employees-movement-science-department)
-
-</div>
 
 ---
 
