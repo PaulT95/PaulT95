@@ -40,7 +40,6 @@ My background is a mixed of Human movement and sport science (BSc & MSc) and als
 <div align="center">
   <img src="https://raw.githubusercontent.com/PaulT95/PaulT95/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
 ---
 
 ### 🌟 Beyond the Lab
