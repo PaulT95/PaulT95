@@ -12,11 +12,20 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
 ---
 <div align="center">
 
-<a href="https://www.researchgate.net/profile/Paolo-Tecchio" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" style="width: 1.1em; margin-bottom: -2px; filter: invert(0%) sepia(95%) saturate(3015%) hue-rotate(155deg) brightness(97%) contrast(101%);" alt="ResearchGate"/> ResearchGate</a> | <a href="https://www.linkedin.com/in/paolo-tecchio-b49255192" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 1em; margin-bottom: -2px" alt="LinkedIn"/> LinkedIn</a> | 
+<a href="https://www.researchgate.net/profile/Paolo-Tecchio" target="_blank">
+<img src="https://img.shields.io/badge/-%2300CCBB?style=flat-square&logo=researchgate&logoColor=white" height="20" style="margin-bottom: -5px" alt="ResearchGate"/> ResearchGate</a> |
+
+<a href="https://www.linkedin.com/in/paolo-tecchio-b49255192" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 1em; margin-bottom: -2px" alt="LinkedIn"/> LinkedIn</a> | 
 
 <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0003-0371-8475" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
-<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> ORCiD</a> | <a href="https://scholar.google.com/citations?user=EiT-uQoAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width: 1.1em; margin-bottom: -2px" alt="Google Scholar"/> Google Scholar</a>
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> ORCiD</a> | 
+
+<a href="https://scholar.google.com/citations?user=EiT-uQoAAAAJ" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width: 1.1em; margin-bottom: -2px" alt="Google Scholar"/> Google Scholar</a>
+
 </div>
+
 ---
 
 ### 🧪 What I'm Focused On
