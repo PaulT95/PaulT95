@@ -61,8 +61,8 @@ My background is a mix of Human Movement and Sport Science (BSc & MSc) and is al
 
 ### 🌟 Beyond the Lab
 
-- 🛠️ **Tinkering:** Building custom electronics for human movement assessment.
-- 🌐 **Networking:** Maintaining my foundation in IT systems and networking.
+- 🛠️ **Tinkering:** Building custom electronics for human movement assessment and smart home.
+- 🌐 **Networking:** Playing around IT systems and networking.
 - 📖 **Legacy:** Continuing a family tradition of technical curiosity and problem-solving.
 
 ---
