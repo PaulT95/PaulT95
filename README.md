@@ -73,7 +73,7 @@ My background is a mix of Human Movement and Sport Science (BSc & MSc) and is al
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-tecchio-b49255192/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolo.tecchio95@gmail.com)
-[![University Profile](https://img.shields.io/badge/RUB_Profile-003561?style=for-the-badge&logo=google-scholar&logoColor=white)](https://sport.ruhr-uni-bochum.de/en/employees-movement-science-department)
+[![University Profile](https://img.shields.io/badge/RUB-003561?style=for-the-badge&logo=google-scholar&logoColor=white)](https://sport.ruhr-uni-bochum.de/en/employees-movement-science-department)
 
 </div>
 
