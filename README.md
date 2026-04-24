@@ -7,7 +7,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey, I'm Paolo 
 
 I currently am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **Neuromechanics** and **Movement Science** and **Training adaptations**. 
-My background is mixed of Human movement and sport science (BSc & MSc) and also rooted in Computer Science and Electronics, a passion passed down through my family that I now apply to human physiological assessment.
+My background is a mixed of Human movement and sport science (BSc & MSc) and also rooted in Computer Science and Electronics (High school), a passion passed down through my family that I now apply to human physiological assessment.
 
 **🔬 [Research Gate](https://www.researchgate.net/profile/PaulT95)** | **💼 [LinkedIn](https://www.linkedin.com/in/paolo-tecchio-b49255192)**
 
