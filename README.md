@@ -37,10 +37,10 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
   <img src="https://img.shields.io/badge/Research-Neuromechanics-9C27B0?style=flat-square&logo=academia&logoColor=white" />
 </div>
 
-- 🧠 Researching Neuromechanics and movement control at [RUB](https://sport.ruhr-uni-bochum.de/en/human-movement-science).
-- 🦿 Developing **low-cost devices** for biomechanical and physiological assessment.
-- 💻 Bridging the gap between hardware and software in clinical research and open-source analysis.
-- 🤝 Open to collaborations on movement science or bio-engineering projects.
+ 🧠 Researching Neuromechanics and movement control at [RUB](https://sport.ruhr-uni-bochum.de/en/human-movement-science).
+ 🦿 Developing **low-cost devices** for biomechanical and physiological assessment.
+ 💻 Bridging the gap between hardware and software in clinical research and open-source analysis.
+ 🤝 Open to collaborations on movement science or bio-engineering projects.
 
 ---
 
