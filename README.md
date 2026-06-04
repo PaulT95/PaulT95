@@ -72,8 +72,7 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
 ### 🌟 Beyond the Lab
 
 - 🛠️ **Tinkering:** Building custom electronics for human movement assessment and smart home.
-- 🌐 **Networking:** Playing around IT systems and networking.
-- 📖 **Legacy:** Continuing a family tradition of technical curiosity and problem-solving.
+- 🌐 **Networking:** Playing around IT systems and networking & continuing a family tradition of technical curiosity and problem-solving.
 
 ---
 
