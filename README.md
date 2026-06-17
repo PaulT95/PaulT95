@@ -54,8 +54,8 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,r,mysql,php,html,java,kotlin,linux,git,raspberrypi,arduino" />
 </div>
 
-**Programming:** C • C++ • C# • Python • MATLAB • R • Spike2 • Assembly • Java/Kotlin (Android)  
-**Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Ultrasound Imaging (B-Mode/M-Mode)  
+**Programming:** C • C++ • C# • Python (beginner) • MATLAB • R • Spike2 • Assembly • Java/Kotlin (Android, beginner)  
+**Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Ultrasound Imaging  
 **Web & Systems:** HTML • PHP • mySQL • Cisco Networking (CCNA 1 & 2)  
 **Hardware:** Circuit Design • Microcontrollers • Prototyping
 
