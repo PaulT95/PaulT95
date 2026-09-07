@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+at+RUB;Neuromechanics+Researcher;Electronics+%26+Software&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+at+RUB+in+neuromechanics;Human+movement+researcher;Electronics+%26+Software&font=Fira+Code&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000&size=23" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey, I'm Paolo 
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align="center"> Hey, I'm Paolo
+</h3>
 
 I am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **neuromechanics**, **movement science**, and **training adaptations**. 
 During free time, I am a bit of a *geek freak* spending time in tinkering and engineering.
