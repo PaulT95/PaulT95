@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+at+RUB;Neuromechanics+Researcher;Electronics+%26+Software+Hobbyist&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Student+at+RUB;Neuromechanics+Researcher;Electronics+%26+Software&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </div>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey, I'm Paolo 
 
-I am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **Neuromechanics**, **Movement Science**, and **Training Adaptations**. 
-
+I am a **Ph.D. student at the Ruhr University of Bochum**, working at the intersection of **neuromechanics**, **movement science**, and **training adaptations**. 
+During free time, I am a bit of a *geek freak* spending time in tinkering and engineering.
 
 ---
 <div align="center">
@@ -28,7 +28,7 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
 
 ---
 
-### 🧪 What I'm Focused On
+### 🧪 What I'm focused on
 
 <div align="left">
   <img src="https://img.shields.io/badge/Imaging-Ultrasound-blue?style=flat-square&logo=opencv&logoColor=white" />
@@ -44,20 +44,20 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Skills
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulT95&layout=compact&theme=vision-friendly-dark&hide=html,css,php" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,r,mysql,php,html,java,kotlin,linux,git,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,matlab,r,python,linux,raspberrypi,arduino,mysql" />
 </div>
 
 **Programming:** C • C++ • C# • Python (beginner) • MATLAB • R • Spike2 • Assembly • Java/Kotlin (Android, beginner)  
 **Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Ultrasound Imaging  
 **Web & Systems:** HTML • PHP • mySQL • Cisco Networking (CCNA 1 & 2)  
-**Hardware:** Circuit Design • Microcontrollers • Prototyping
+**Hardware & Tinkering:** Microcontrollers • Circuit design • 3D printing • Prototyping
 
 ---
 
@@ -69,10 +69,10 @@ I am a **Ph.D. student at the Ruhr University of Bochum**, working at the inters
 
 ---
 
-### 🌟 Beyond the Lab
+### And outside the (expensive) lab? Tinkering and fun
 
-- 🛠️ **Tinkering:** Building custom electronics for human movement assessment and smart home.
-- 🌐 **Networking:** Playing around IT systems and networking & continuing a family tradition of technical curiosity and problem-solving.
+Building custom electronics for playing with human biosignals and evaluations and smart home.
+Playing around with IT systems and networking as it is a family tradition buing curious and solving problems (often self-created).
 
 ---
 
