@@ -45,19 +45,22 @@ During free time, I am a bit of a *geek freak* spending time in tinkering and en
 ---
 
 ### Skills
-
+<!-- IT DOESN'T work anymore, the autjpr stopped
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulT95&layout=compact&theme=vision-friendly-dark&hide=html,css,php" />
 </div>
+-->
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,matlab,r,python,linux,raspberrypi,arduino,mysql" />
 </div>
 
-**Programming:** C • C++ • C# • Python (beginner) • MATLAB • R • Spike2 • Assembly • Java/Kotlin (Android, beginner)  
+**Programming:** C • C++ • C# • Python (beginner) • MATLAB • R • Spike2 • Assembly • Android (beginner)  
 **Analysis & Science:** Movement Data Analysis • Bio-Signal Processing • Ultrasound Imaging  
 **Web & Systems:** HTML • PHP • mySQL • Cisco Networking (CCNA 1 & 2)  
 **Hardware & Tinkering:** Microcontrollers • Circuit design • 3D printing • Prototyping
+
+*I am always happy to learn new stuff and skills, that will help shaping my mind and improve my results*
 
 ---
 
